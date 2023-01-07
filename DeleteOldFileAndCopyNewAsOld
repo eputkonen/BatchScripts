@@ -1,0 +1,3 @@
+@echo OFF 
+DEL C:\Users\usr005051\Documents\DirectoryCompare\DirectoryOld.txt 
+copy C:\Users\usr005051\Documents\DirectoryCompare\DirectoryNew.txt C:\Users\usr005051\Documents\DirectoryCompare\DirectoryOld.txt 
