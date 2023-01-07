@@ -9,7 +9,5 @@ CompareTextFiles
 DeleteOldFileAndCopyNewAsOld
 - After using CompareTextFiles, I executed this script to delete DirectoryOld.txt and create a new one based on DirectoryNew.txt.  Now I am ready to copy and paste the directory into DirectoryNew.txt and run CompareTextFiles next week.
 
-
-
-
-
+StartingDayScript
+- I added this script to run when computer starts list, so that various programs would automatically open for me when I started my day.
