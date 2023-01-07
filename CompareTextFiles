@@ -1,0 +1,5 @@
+@echo OFF 
+TITLE Directory Comparison and Show Changes 
+ECHO Directory Comparison and Showing Changes 
+FC /C C:\Users\usr005051\Documents\DirectoryCompare\DirectoryOld.txt C:\Users\usr005051\Documents\DirectoryCompare\DirectoryNew.txt 
+PAUSE 
