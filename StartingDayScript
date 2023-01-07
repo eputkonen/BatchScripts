@@ -1,0 +1,13 @@
+@echo off 
+start "Chrome" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" 
+start "Outlook" "C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE" 
+ECHO. 
+ECHO. 
+ECHO Please Securely Log in and hit any key. 
+ECHO. 
+PAUSE 
+start "" "https://www.surveymonkey.com/home/?ut_source=header" 
+start "" "https://www.needtomeet.com/page/meetings" 
+start "C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE" "C:\Users\usr005051\Documents\Daily Notes for Judy.xlsx" 
+start "" "https://auth.chenmed.com/SecureAuth93/customized/redirect.aspx?redirect=https://app.glip.com/" 
+start "" “https://auth.chenmed.com/SecureAuth24/Authorized/SAML20IdPInit.aspx”
